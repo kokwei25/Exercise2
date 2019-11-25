@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise 2</string>
+    <string name="weight">Enter Weight (kg) :</string>
+    <string name="height">Enter Height (m) :</string>
+    <string name="cal">calculate</string>
+    <string name="reset">reset</string>
+</resources>
